@@ -1,7 +1,11 @@
 📚 Tecnico em Redes de Compuatdores
+
 🎒 Estudante de Banco de Dados (2/6)
+
 👮 Soldado do Exercito Brasileiro - Adjunto de administração de redes
+
 🚵 Ciclista nas horas vagas
+
 🐋 DON'T PANIC!
 
 
