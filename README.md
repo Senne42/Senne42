@@ -1,6 +1,6 @@
 📚 Tecnico em Redes de Compuatdores
 
-🎒 Estudante de Banco de Dados (2/6)
+🎒 Estudante de Banco de Dados (3/6)
 
 👮 Soldado do Exercito Brasileiro - Adjunto de administração de redes
 
