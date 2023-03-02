@@ -4,7 +4,7 @@
 ### 🚵 Free time cyclist
 ### 👨‍💻 Main Technologies:
 - Java
-- TypeScript
+- JavaScript
 - Python
 - MySQL
 
