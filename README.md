@@ -1,6 +1,5 @@
 ### 📚 Computer Network Technician
 ### 🎒 Graduating in Database Technology - 4/6 Semesters
-### 👮 Private First Class in Brazilian Army - Network Administration
 ### 🚵 Free time cyclist
 ### 👨‍💻 Main Technologies:
 - Java
